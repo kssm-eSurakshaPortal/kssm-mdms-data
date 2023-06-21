@@ -1,0 +1,15 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_eligibility":[
+    {
+        "int_eligibilityid": 1,
+        "chv_eligibilityeng": "Eligible",
+        "chv_eligibilitymal": "അര്‍ഹതയുണ്ട്"
+    },
+    {
+        "int_eligibilityid": 2,
+        "chv_eligibilityeng": "Not Eligible",
+        "chv_eligibilitymal": "അര്‍ഹതയില്ല"
+    }
+]
+}

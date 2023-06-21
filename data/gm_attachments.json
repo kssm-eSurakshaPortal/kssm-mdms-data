@@ -1,0 +1,77 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_attachments": [
+    {
+        "scheme_id": 10,
+        "intattchid": 1,
+        "chvattachnamemal": "ബിപിഎല്‍   സര്‍ട്ടിഫിക്കറ്റ്  കോപ്പി",
+        "chvattachnameeng": null
+    },
+    {
+        "scheme_id": 10,
+        "intattchid": 2,
+        "chvattachnamemal": "\n\nബി പി എല്‍  റേഷന്‍ കാര്‍ഡിന്റെ പകര്‍പ്പ്",
+        "chvattachnameeng": null
+    },
+    {
+        "scheme_id": 11,
+        "intattchid": 2,
+        "chvattachnamemal": "ഗസറ്റഡ്‌ ഓഫീസര്‍ അറ്റസ്റ്റ് ചെയ്ത റേഷന്‍ കാര്‍ഡിന്റെ പകര്‍പ്പ്",
+        "chvattachnameeng": null
+    },
+    {
+        "scheme_id": 11,
+        "intattchid": 1,
+        "chvattachnamemal": "ബിപിഎല്‍   സര്‍ട്ടിഫിക്കറ്റ്  കോപ്പി",
+        "chvattachnameeng": null
+    },
+    {
+        "scheme_id": 11,
+        "intattchid": 3,
+        "chvattachnamemal": "ബാങ്ക് പാസ്സ് ബുക്കിന്റെ പകര്‍പ്പ്",
+        "chvattachnameeng": null
+    },
+    {
+        "scheme_id": 11,
+        "intattchid": 4,
+        "chvattachnamemal": "മെഡിക്കല്‍ സര്‍ട്ടിഫിക്കറ്റ്",
+        "chvattachnameeng": ""
+    },
+    {
+        "scheme_id": 12,
+        "intattchid": 1,
+        "chvattachnamemal": "ജനനതീയതി തെളിയിക്കുന്നതിനുള്ള സര്‍ട്ടിഫിക്കറ്റ് ",
+        "chvattachnameeng": null
+    },
+    {
+        "scheme_id": 12,
+        "intattchid": 2,
+        "chvattachnamemal": "റേഷന്‍ കാര്‍ഡിന്റെ പകര്‍പ്പ്",
+        "chvattachnameeng": null
+    },
+    {
+        "scheme_id": 12,
+        "intattchid": 3,
+        "chvattachnamemal": "പോസ്റ്റ്‌ ഓഫീസ് പാസ്സ് ബുക്കിന്റെ പകര്‍പ്പ്",
+        "chvattachnameeng": null
+    },
+    {
+        "scheme_id": 13,
+        "intattchid": 2,
+        "chvattachnamemal": "ബാങ്ക് പാസ്ബുക്കിന്‍റെ പകര്‍പ്പ്",
+        "chvattachnameeng": "Bank passbook copy"
+    },
+    {
+        "scheme_id": 13,
+        "intattchid": 3,
+        "chvattachnamemal": "തദ്ദേശ സ്വയംഭരണ സ്ഥാപന സെക്രട്ടറിയുടെ സാക്ഷ്യപത്രം",
+        "chvattachnameeng": "Certificate of the local body secretary"
+    },
+    {
+        "scheme_id": 13,
+        "intattchid": 1,
+        "chvattachnamemal": "വരുമാന സര്‍ട്ടിഫിക്കറ്റ്",
+        "chvattachnameeng": "Income certificate"
+    }
+   ]
+}

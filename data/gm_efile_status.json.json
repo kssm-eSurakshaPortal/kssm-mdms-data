@@ -1,0 +1,60 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_efile_status":[
+    {
+        "int_efileid": 0,
+        "chv_efilestatuseng": "Partial Data Entry",
+        "chv_efilestatusmal": "ഭാഗികമായി രേഖപ്പെടുത്തിയിരിക്കുന്നു"
+    },
+    {
+        "int_efileid": 1,
+        "chv_efilestatuseng": "Data Entry Completed",
+        "chv_efilestatusmal": "വിവരങ്ങള്‍ പൂര്‍ണ്ണമായി രേഖപ്പെടുത്തിയിരിക്കുന്നു"
+    },
+    {
+        "int_efileid": 2,
+        "chv_efilestatuseng": "Submitted for Approval",
+        "chv_efilestatusmal": "അംഗീകാരത്തിനായി സമര്‍പ്പിച്ചിരിക്കുന്നു"
+    },
+    {
+        "int_efileid": 3,
+        "chv_efilestatuseng": "Placed for Field Enquiry",
+        "chv_efilestatusmal": "ഫീല്‍ഡ് പരിശോധനയ്ക്കായി നല്‍കിയിരിക്കുന്നു"
+    },
+    {
+        "int_efileid": 4,
+        "chv_efilestatuseng": "Approved by CDPO",
+        "chv_efilestatusmal": "സി.ഡി.പി.ഒ. അംഗീകരിച്ചിരിക്കുന്നു"
+    },
+    {
+        "int_efileid": 5,
+        "chv_efilestatuseng": "Rejected by CDPO",
+        "chv_efilestatusmal": "സി.ഡി.പി.ഒ. നിരസിച്ചിരിക്കുന്നു"
+    },
+    {
+        "int_efileid": 6,
+        "chv_efilestatuseng": "Verified",
+        "chv_efilestatusmal": "പരിശോധിച്ചു"
+    },
+    {
+        "int_efileid": 7,
+        "chv_efilestatuseng": "Rejected",
+        "chv_efilestatusmal": "നിരസിച്ചു"
+    },
+    {
+        "int_efileid": 8,
+        "chv_efilestatuseng": "Approved",
+        "chv_efilestatusmal": "അംഗീകരിച്ചു"
+    },
+    {
+        "int_efileid": 9,
+        "chv_efilestatuseng": "Approved by DSJO",
+        "chv_efilestatusmal": "ഡി.എസ്.ജി.ഒ. അംഗീകരിച്ചിരിക്കുന്നു"
+    },
+    {
+        "int_efileid": 10,
+        "chv_efilestatuseng": "Rejected by DSJO",
+        "chv_efilestatusmal": "ഡി.എസ്.ജി.ഒ. നിരസിച്ചിരിക്കുന്നു"
+    }
+]
+}

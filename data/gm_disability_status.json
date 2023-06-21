@@ -1,0 +1,13 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_disability_status":[
+    {
+        "disability_status_id": 1,
+        "disability_status": "താല്‍ക്കാലികം"
+    },
+    {
+        "disability_status_id": 2,
+        "disability_status": "സ്ഥിരം"
+    }
+]
+}

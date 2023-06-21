@@ -1,0 +1,21 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_marital_status":[
+    {
+        "marital_status_id": 1,
+        "marital_status": "അവിവാഹിതര്‍"
+    },
+    {
+        "marital_status_id": 2,
+        "marital_status": "വിവാഹിതര്‍"
+    },
+    {
+        "marital_status_id": 3,
+        "marital_status": "വിവാഹബന്ധം വേര്‍പെടുത്തിയവര്‍"
+    },
+    {
+        "marital_status_id": 4,
+        "marital_status": "വിധവ"
+    }
+]
+}

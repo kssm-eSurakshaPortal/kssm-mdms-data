@@ -1,0 +1,53 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_disability":[
+    {
+        "disability_id": 1,
+        "schemetype": 1,
+        "chv_disabilitymal": "ബുദ്ധിമാന്ദ്യം",
+        "chv_disabilityeng": null
+    },
+    {
+        "disability_id": 2,
+        "schemetype": 1,
+        "chv_disabilitymal": "ഓട്ടിസം",
+        "chv_disabilityeng": null
+    },
+    {
+        "disability_id": 3,
+        "schemetype": 1,
+        "chv_disabilitymal": "സെറിബ്രല്‍ പാള്‍സി",
+        "chv_disabilityeng": null
+    },
+    {
+        "disability_id": 4,
+        "schemetype": 1,
+        "chv_disabilitymal": "മാനസികവൈകല്യം",
+        "chv_disabilityeng": null
+    },
+    {
+        "disability_id": 5,
+        "schemetype": 1,
+        "chv_disabilitymal": "പ്രായാധിക്യം മൂലം അവശത",
+        "chv_disabilityeng": null
+    },
+    {
+        "disability_id": 6,
+        "schemetype": 1,
+        "chv_disabilitymal": "100% അന്ധത",
+        "chv_disabilityeng": null
+    },
+    {
+        "disability_id": 7,
+        "schemetype": 1,
+        "chv_disabilitymal": "ശയ്യാവലംബര്‍",
+        "chv_disabilityeng": null
+    },
+    {
+        "disability_id": 99,
+        "schemetype": 1,
+        "chv_disabilitymal": "മറ്റുള്ളവ",
+        "chv_disabilityeng": null
+    }
+ ]
+}

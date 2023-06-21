@@ -1,0 +1,15 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_gender":[
+    {
+        "gender_id": 1,
+        "gender": "Male",
+        "gendermal": "പുരുഷന്‍"
+    },
+    {
+        "gender_id": 2,
+        "gender": "Female",
+        "gendermal": "സ്ത്രീ"
+    }
+]
+}

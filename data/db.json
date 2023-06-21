@@ -1,0 +1,63 @@
+{
+  "user": [
+    {
+      "name": "Sibi Anto Wilson",
+      "username": "akashsingh",
+      "email": "akash@gmail.com",
+      "phone": "98786756564",
+      "id": 1
+    },
+    {
+      "name": "akash",
+      "username": "akashsingh",
+      "email": "akash@gmail.com",
+      "phone": "98786756564",
+      "id": 2
+    },
+    {
+      "name": "suraj",
+      "username": "suraj123",
+      "email": "suraj@gmail.com",
+      "phone": "9956976967",
+      "id": 3
+    },
+    {
+      "name": "rakesh",
+      "username": "rakesh",
+      "email": "rakesh@gmail.com",
+      "phone": "9579579575",
+      "id": 4
+    },
+    {
+      "name": "sibi",
+      "username": "admin",
+      "email": "admin@example.com",
+      "phone": "988999999",
+      "id": 5
+    },
+    {
+      "name": "sibi",
+      "username": "sibi",
+      "email": "admin@example.com",
+      "phone": "988999999",
+      "flag": "0",
+      "id": 6
+    },
+    {
+      "name": "Del",
+      "username": "sibi",
+      "email": "salu@gmail.com",
+      "phone": "988999999",
+      "flag": "0",
+      "id": 7
+    },
+    {
+      "name": "sibiwerwerwe",
+      "username": "sibi",
+      "email": "admin@example.com",
+      "phone": "988999999",
+      "flag": "0",
+      "id": 8
+    }
+  ]
+}

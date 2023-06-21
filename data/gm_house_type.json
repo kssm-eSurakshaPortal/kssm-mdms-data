@@ -1,0 +1,30 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_house_type":[
+    {
+        "inthousetypeid": 1,
+        "chvhousetypeeng": "Tile",
+        "chvhousetypemal": "ഓട്"
+    },
+    {
+        "inthousetypeid": 2,
+        "chvhousetypeeng": "Thatched",
+        "chvhousetypemal": "ഓല"
+    },
+    {
+        "inthousetypeid": 3,
+        "chvhousetypeeng": "Concrete",
+        "chvhousetypemal": "കോണ്‍ക്രീറ്റ്"
+    },
+    {
+        "inthousetypeid": 4,
+        "chvhousetypeeng": "Sheet",
+        "chvhousetypemal": "ഷീറ്റ്"
+    },
+    {
+        "inthousetypeid": 5,
+        "chvhousetypeeng": "Others",
+        "chvhousetypemal": "മറ്റുള്ളവ"
+    }
+]
+}

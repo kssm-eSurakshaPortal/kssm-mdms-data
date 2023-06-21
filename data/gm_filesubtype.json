@@ -1,0 +1,245 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_filesubtype":[
+    {
+        "intfile_id": 1,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "New Applications",
+        "scheme_id": 10
+    },
+    {
+        "intfile_id": 2,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Address Change Request",
+        "scheme_id": 10
+    },
+    {
+        "intfile_id": 3,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Bank Account Details Entry",
+        "scheme_id": 10
+    },
+    {
+        "intfile_id": 4,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Suspension Request",
+        "scheme_id": 10
+    },
+    {
+        "intfile_id": 5,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Revoke Request",
+        "scheme_id": 10
+    },
+    {
+        "intfile_id": 6,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Establishment",
+        "scheme_id": 99
+    },
+    {
+        "intfile_id": 7,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Request Internal",
+        "scheme_id": 99
+    },
+    {
+        "intfile_id": 8,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Request External",
+        "scheme_id": 99
+    },
+    {
+        "intfile_id": 9,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Govt.Letters",
+        "scheme_id": 99
+    },
+    {
+        "intfile_id": 10,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Department Letters",
+        "scheme_id": 99
+    },
+    {
+        "intfile_id": 11,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "New Applications\n",
+        "scheme_id": 11
+    },
+    {
+        "intfile_id": 12,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Address Change Request",
+        "scheme_id": 11
+    },
+    {
+        "intfile_id": 13,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Bank Account Details Entry\n",
+        "scheme_id": 11
+    },
+    {
+        "intfile_id": 14,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Suspension Request\n",
+        "scheme_id": 11
+    },
+    {
+        "intfile_id": 15,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Revoke Request\n",
+        "scheme_id": 11
+    },
+    {
+        "intfile_id": 16,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "New Applications",
+        "scheme_id": 12
+    },
+    {
+        "intfile_id": 17,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Address Change Request",
+        "scheme_id": 12
+    },
+    {
+        "intfile_id": 18,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Bank Account Details Entry\n",
+        "scheme_id": 12
+    },
+    {
+        "intfile_id": 19,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Suspension Request\n",
+        "scheme_id": 12
+    },
+    {
+        "intfile_id": 20,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Revoke Request",
+        "scheme_id": 12
+    },
+    {
+        "intfile_id": 21,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "New Applications\n",
+        "scheme_id": 13
+    },
+    {
+        "intfile_id": 22,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Address Change Request",
+        "scheme_id": 13
+    },
+    {
+        "intfile_id": 23,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Bank Account Details Entry\n",
+        "scheme_id": 13
+    },
+    {
+        "intfile_id": 24,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Suspension Request\n",
+        "scheme_id": 13
+    },
+    {
+        "intfile_id": 25,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Revoke Request\n",
+        "scheme_id": 13
+    },
+    {
+        "intfile_id": 26,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "New Applications\n\n",
+        "scheme_id": 14
+    },
+    {
+        "intfile_id": 27,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Address Change Request\n",
+        "scheme_id": 14
+    },
+    {
+        "intfile_id": 28,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Bank Account Details Entry\n",
+        "scheme_id": 14
+    },
+    {
+        "intfile_id": 29,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Suspension Request\n",
+        "scheme_id": 14
+    },
+    {
+        "intfile_id": 30,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Revoke Request\n",
+        "scheme_id": 14
+    },
+    {
+        "intfile_id": 31,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "New Applications\n",
+        "scheme_id": 15
+    },
+    {
+        "intfile_id": 32,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Address Change Request",
+        "scheme_id": 15
+    },
+    {
+        "intfile_id": 33,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Bank Account Details Entry\n",
+        "scheme_id": 15
+    },
+    {
+        "intfile_id": 34,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Suspension Request\n",
+        "scheme_id": 15
+    },
+    {
+        "intfile_id": 35,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Revoke Request\n",
+        "scheme_id": 15
+    },
+    {
+        "intfile_id": 36,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "New Applications\n\n",
+        "scheme_id": 16
+    },
+    {
+        "intfile_id": 37,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Address Change Request\n",
+        "scheme_id": 16
+    },
+    {
+        "intfile_id": 38,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Bank Account Details Entry\n\n",
+        "scheme_id": 16
+    },
+    {
+        "intfile_id": 39,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Suspension Request\n",
+        "scheme_id": 16
+    },
+    {
+        "intfile_id": 40,
+        "chvsubfilenamemal": null,
+        "chvsubfilenameeng": "Revoke Request\n",
+        "scheme_id": 16
+    }
+]
+}

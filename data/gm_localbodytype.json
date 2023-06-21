@@ -1,0 +1,29 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_localbodytype":[
+    {
+        "tnylbtypeid": 3,
+        "chvtypedescmalayalam": "മുനിസിപാലിറ്റി",
+        "chvtypedesctamil": null,
+        "chvtypedesckannada": null,
+        "chvtypedescenglish": "Municipality",
+        "tnyruralurbantype": 2
+    },
+    {
+        "tnylbtypeid": 4,
+        "chvtypedescmalayalam": "കോര്‍പറേഷന്‍",
+        "chvtypedesctamil": null,
+        "chvtypedesckannada": null,
+        "chvtypedescenglish": "Corporation",
+        "tnyruralurbantype": 2
+    },
+    {
+        "tnylbtypeid": 5,
+        "chvtypedescmalayalam": "ഗ്രാമ പഞ്ചായത്ത്‌",
+        "chvtypedesctamil": null,
+        "chvtypedesckannada": null,
+        "chvtypedescenglish": "Grama Panchayat",
+        "tnyruralurbantype": 1
+    }
+  ]
+}

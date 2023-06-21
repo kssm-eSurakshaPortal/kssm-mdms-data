@@ -1,0 +1,21 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_fru_status":[
+    {
+        "intfrustatusid": 1,
+        "chvfrustatus": "Success"
+    },
+    {
+        "intfrustatusid": 2,
+        "chvfrustatus": "Failed"
+    },
+    {
+        "intfrustatusid": 3,
+        "chvfrustatus": "Others"
+    },
+    {
+        "intfrustatusid": 4,
+        "chvfrustatus": "Duplicate"
+    }
+ ]
+}

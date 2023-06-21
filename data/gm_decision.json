@@ -1,0 +1,15 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_decision":[
+    {
+        "intdecid": 1,
+        "chvdecnamemal": "ഉണ്ട്",
+        "chvdecnameeng": null
+    },
+    {
+        "intdecid": 2,
+        "chvdecnamemal": "ഇല്ല",
+        "chvdecnameeng": null
+    }
+]
+}

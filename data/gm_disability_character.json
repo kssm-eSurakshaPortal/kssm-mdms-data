@@ -1,0 +1,25 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_disability_character":[
+    {
+        "dis_char_id": 1,
+        "dis_character": "അസ്ഥിസംബന്ധമായ ബുദ്ധിമുട്ടുകള്‍"
+    },
+    {
+        "dis_char_id": 2,
+        "dis_character": "കാഴ്ചക്കുറവ്"
+    },
+    {
+        "dis_char_id": 3,
+        "dis_character": "കേള്‍വിക്കുറവ്‌/സംസാരശേഷിക്കുറവ്"
+    },
+    {
+        "dis_char_id": 4,
+        "dis_character": "മാനസികരോഗം"
+    },
+    {
+        "dis_char_id": 5,
+        "dis_character": "ബുദ്ധിമാന്ദ്യം"
+    }
+]
+}

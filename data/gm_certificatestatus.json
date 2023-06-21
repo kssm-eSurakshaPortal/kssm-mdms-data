@@ -1,0 +1,20 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_certificatestatus":[
+    {
+        "intdecid": 1,
+        "chvdecnamemal": "ഉണ്ട്",
+        "chvdecnameeng": null
+    },
+    {
+        "intdecid": 2,
+        "chvdecnamemal": "ഇല്ല",
+        "chvdecnameeng": null
+    },
+    {
+        "intdecid": 3,
+        "chvdecnamemal": "ലഭ്യമല്ല",
+        "chvdecnameeng": null
+    }
+]
+}

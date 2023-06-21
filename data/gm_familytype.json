@@ -1,0 +1,13 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_familytype":[
+    {
+        "intfamilyid": 1,
+        "chvfamilytype": "APL"
+    },
+    {
+        "intfamilyid": 2,
+        "chvfamilytype": "BPL"
+    }
+]
+}

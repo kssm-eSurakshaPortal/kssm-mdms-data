@@ -1,0 +1,45 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_acdyear": [
+    {
+        "intacdyearid": 2014,
+        "chvacdyear": "2014-2015",
+        "tnyactive": 0
+    },
+    {
+        "intacdyearid": 2015,
+        "chvacdyear": "2015-2016",
+        "tnyactive": 0
+    },
+    {
+        "intacdyearid": 2016,
+        "chvacdyear": "2016-2017",
+        "tnyactive": 0
+    },
+    {
+        "intacdyearid": 2017,
+        "chvacdyear": "2017-2018",
+        "tnyactive": 0
+    },
+    {
+        "intacdyearid": 2018,
+        "chvacdyear": "2018-2019",
+        "tnyactive": 0
+    },
+    {
+        "intacdyearid": 2019,
+        "chvacdyear": "2019-2020",
+        "tnyactive": 0
+    },
+    {
+        "intacdyearid": 2020,
+        "chvacdyear": "2020-2021",
+        "tnyactive": 0
+    },
+    {
+        "intacdyearid": 2021,
+        "chvacdyear": "2021-2022",
+        "tnyactive": 1
+    }
+   ]
+}

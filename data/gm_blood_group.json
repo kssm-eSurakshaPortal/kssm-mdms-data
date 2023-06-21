@@ -1,0 +1,37 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_blood_group":[
+    {
+        "blood_group_id": 1,
+        "blood_group": "A+"
+    },
+    {
+        "blood_group_id": 2,
+        "blood_group": "B+"
+    },
+    {
+        "blood_group_id": 3,
+        "blood_group": "AB+"
+    },
+    {
+        "blood_group_id": 4,
+        "blood_group": "O+"
+    },
+    {
+        "blood_group_id": 5,
+        "blood_group": "A-"
+    },
+    {
+        "blood_group_id": 6,
+        "blood_group": "B-"
+    },
+    {
+        "blood_group_id": 7,
+        "blood_group": "AB-"
+    },
+    {
+        "blood_group_id": 8,
+        "blood_group": "O-"
+    }
+ ]
+}

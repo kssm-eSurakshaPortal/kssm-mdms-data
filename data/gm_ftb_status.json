@@ -1,0 +1,29 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_ftb_status":[
+    {
+        "intftbstatusid": 1,
+        "chvftbstatus": "Initiated"
+    },
+    {
+        "intftbstatusid": 2,
+        "chvftbstatus": "Submitted"
+    },
+    {
+        "intftbstatusid": 3,
+        "chvftbstatus": "Verified"
+    },
+    {
+        "intftbstatusid": 4,
+        "chvftbstatus": "Approved"
+    },
+    {
+        "intftbstatusid": 5,
+        "chvftbstatus": "Rejected"
+    },
+    {
+        "intftbstatusid": 6,
+        "chvftbstatus": "Cancelled"
+    }
+]
+}

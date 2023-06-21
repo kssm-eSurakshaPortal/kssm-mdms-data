@@ -1,0 +1,21 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_office_ownership":[
+    {
+        "owner_id": 1,
+        "ownership_eng": "Own"
+    },
+    {
+        "owner_id": 2,
+        "ownership_eng": "Rented"
+    },
+    {
+        "owner_id": 3,
+        "ownership_eng": "Released"
+    },
+    {
+        "owner_id": 4,
+        "ownership_eng": "Transferrable"
+    }
+]
+}

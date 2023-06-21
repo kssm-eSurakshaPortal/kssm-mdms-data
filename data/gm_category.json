@@ -1,0 +1,30 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_category":[
+    {
+        "category_id": 1,
+        "category": "General",
+        "categorymal": "ജനറല്‍"
+    },
+    {
+        "category_id": 2,
+        "category": "SC",
+        "categorymal": "എസ്.സി"
+    },
+    {
+        "category_id": 3,
+        "category": "ST",
+        "categorymal": "എസ്.ടി"
+    },
+    {
+        "category_id": 4,
+        "category": "OBC",
+        "categorymal": "ഓ.ബി.സി"
+    },
+    {
+        "category_id": 5,
+        "category": "Not Recorded",
+        "categorymal": "നോട്ട് റിക്കോര്‍ഡ്"
+    }
+]
+}

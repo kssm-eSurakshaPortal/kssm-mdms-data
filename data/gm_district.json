@@ -1,0 +1,75 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_district":[
+    {
+        "district_id": 1,
+        "district_malayalam": "തിരുവനന്തപുരം",
+        "district_english": "Thiruvananthapuram"
+    },
+    {
+        "district_id": 2,
+        "district_malayalam": "കൊല്ലം",
+        "district_english": "Kollam"
+    },
+    {
+        "district_id": 3,
+        "district_malayalam": "പത്തനംതിട്ട",
+        "district_english": "Pathanamthitta"
+    },
+    {
+        "district_id": 4,
+        "district_malayalam": "ആലപ്പുഴ",
+        "district_english": "Alappuzha"
+    },
+    {
+        "district_id": 5,
+        "district_malayalam": "കോട്ടയം",
+        "district_english": "Kottayam"
+    },
+    {
+        "district_id": 6,
+        "district_malayalam": "ഇടുക്കി",
+        "district_english": "Idukki"
+    },
+    {
+        "district_id": 7,
+        "district_malayalam": "എറണാകുളം",
+        "district_english": "Eranakulam"
+    },
+    {
+        "district_id": 8,
+        "district_malayalam": "തൃശ്ശൂര്‍",
+        "district_english": "Thrissur"
+    },
+    {
+        "district_id": 9,
+        "district_malayalam": "പാലക്കാട്‌",
+        "district_english": "Palakkad"
+    },
+    {
+        "district_id": 10,
+        "district_malayalam": "മലപ്പുറം",
+        "district_english": "Malappuram"
+    },
+    {
+        "district_id": 11,
+        "district_malayalam": "കോഴിക്കോട്",
+        "district_english": "Kozhikode"
+    },
+    {
+        "district_id": 12,
+        "district_malayalam": "വയനാട്‌",
+        "district_english": "Wayanad"
+    },
+    {
+        "district_id": 13,
+        "district_malayalam": "കണ്ണൂര്‍",
+        "district_english": "Kannur"
+    },
+    {
+        "district_id": 14,
+        "district_malayalam": "കാസര്‍ഗോഡ്‌",
+        "district_english": "Kasaragode"
+    }
+]
+}

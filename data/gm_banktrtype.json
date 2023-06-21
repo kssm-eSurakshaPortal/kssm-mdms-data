@@ -1,0 +1,17 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_banktrtype": [
+    {
+        "intbttypeid": 1,
+        "chvbttype": "SBT"
+    },
+    {
+        "intbttypeid": 2,
+        "chvbttype": "GRPT"
+    },
+    {
+        "intbttypeid": 3,
+        "chvbttype": "NEFT"
+    }
+]
+}

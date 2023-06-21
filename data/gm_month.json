@@ -1,0 +1,65 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_month":[
+    {
+        "intmonthid": 1,
+        "chvmontheng": "January",
+        "chvmonthmal": null
+    },
+    {
+        "intmonthid": 2,
+        "chvmontheng": "February",
+        "chvmonthmal": null
+    },
+    {
+        "intmonthid": 3,
+        "chvmontheng": "March",
+        "chvmonthmal": null
+    },
+    {
+        "intmonthid": 4,
+        "chvmontheng": "April",
+        "chvmonthmal": null
+    },
+    {
+        "intmonthid": 5,
+        "chvmontheng": "May",
+        "chvmonthmal": null
+    },
+    {
+        "intmonthid": 6,
+        "chvmontheng": "June",
+        "chvmonthmal": null
+    },
+    {
+        "intmonthid": 7,
+        "chvmontheng": "July",
+        "chvmonthmal": null
+    },
+    {
+        "intmonthid": 8,
+        "chvmontheng": "August",
+        "chvmonthmal": null
+    },
+    {
+        "intmonthid": 9,
+        "chvmontheng": "September",
+        "chvmonthmal": null
+    },
+    {
+        "intmonthid": 10,
+        "chvmontheng": "October",
+        "chvmonthmal": null
+    },
+    {
+        "intmonthid": 11,
+        "chvmontheng": "November",
+        "chvmonthmal": null
+    },
+    {
+        "intmonthid": 12,
+        "chvmontheng": "December",
+        "chvmonthmal": null
+    }
+]
+}

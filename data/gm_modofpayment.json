@@ -1,0 +1,25 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_modofpayment":[
+    {
+        "intmodofpayid": 1,
+        "chvmodofpayeng": "Direct Bank Credit",
+        "chvmodofpaymal": null
+    },
+    {
+        "intmodofpayid": 2,
+        "chvmodofpayeng": "Check",
+        "chvmodofpaymal": null
+    },
+    {
+        "intmodofpayid": 3,
+        "chvmodofpayeng": "Cash",
+        "chvmodofpaymal": null
+    },
+    {
+        "intmodofpayid": 4,
+        "chvmodofpayeng": "Post Office Savings",
+        "chvmodofpaymal": null
+    }
+]
+}

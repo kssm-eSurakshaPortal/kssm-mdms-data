@@ -1,0 +1,15 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_livestatus":[
+    {
+        "intstatusid": 1,
+        "chvlivestatusmal": "ജീവിച്ചിരിപ്പുണ്ട്",
+        "chvlivestatuseng": "live"
+    },
+    {
+        "intstatusid": 2,
+        "chvlivestatusmal": "മരണപെട്ടു",
+        "chvlivestatuseng": "Dead"
+    }
+]
+}

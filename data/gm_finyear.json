@@ -1,0 +1,37 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_finyear":[
+    {
+        "intfinyearid": 1,
+        "chvfinyear": "2014-15"
+    },
+    {
+        "intfinyearid": 2,
+        "chvfinyear": "2015-16"
+    },
+    {
+        "intfinyearid": 3,
+        "chvfinyear": "2016-17"
+    },
+    {
+        "intfinyearid": 4,
+        "chvfinyear": "2017-18"
+    },
+    {
+        "intfinyearid": 5,
+        "chvfinyear": "2018-19"
+    },
+    {
+        "intfinyearid": 6,
+        "chvfinyear": "2019-20"
+    },
+    {
+        "intfinyearid": 7,
+        "chvfinyear": "2020-21"
+    },
+    {
+        "intfinyearid": 8,
+        "chvfinyear": "2021-22"
+    }
+]
+}

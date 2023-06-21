@@ -1,0 +1,13 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_inst_ben_type":[
+    {
+        "type_id": 1,
+        "type_name": "Beneficiary"
+    },
+    {
+        "type_id": 2,
+        "type_name": "Institution"
+    }
+]
+}

@@ -1,0 +1,40 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_familymembers":[
+    {
+        "member_id": 1,
+        "member_name": "Father",
+        "flag": null
+    },
+    {
+        "member_id": 2,
+        "member_name": "Mother",
+        "flag": null
+    },
+    {
+        "member_id": 3,
+        "member_name": "Brother1",
+        "flag": null
+    },
+    {
+        "member_id": 4,
+        "member_name": "Brother 2",
+        "flag": null
+    },
+    {
+        "member_id": 5,
+        "member_name": "Sister 1",
+        "flag": null
+    },
+    {
+        "member_id": 6,
+        "member_name": "Sister 2",
+        "flag": null
+    },
+    {
+        "member_id": 7,
+        "member_name": "Others",
+        "flag": null
+    }
+ ]
+}

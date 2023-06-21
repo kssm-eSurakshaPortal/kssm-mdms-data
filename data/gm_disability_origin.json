@@ -1,0 +1,13 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_disability_origin":[
+    {
+        "disability_origin_id": 1,
+        "disability_origin": "ജന്‍മനായുള്ളത്"
+    },
+    {
+        "disability_origin_id": 2,
+        "disability_origin": "ആര്‍ജിതം"
+    }
+]
+}

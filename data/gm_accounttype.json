@@ -1,0 +1,13 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_accounttype": [
+    {
+        "intaccountid": 1,
+        "chvaccounttype": "പോസ്റ്റ് ഓഫീസ്"
+    },
+    {
+        "intaccountid": 2,
+        "chvaccounttype": "ബാങ്ക്"
+    }
+ ]
+}

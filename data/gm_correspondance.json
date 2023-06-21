@@ -1,0 +1,29 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_correspondance":[
+    {
+        "intcorrespondance_id": 1,
+        "chvcorrespondance_type": "Normal"
+    },
+    {
+        "intcorrespondance_id": 2,
+        "chvcorrespondance_type": "Registered"
+    },
+    {
+        "intcorrespondance_id": 3,
+        "chvcorrespondance_type": "By Courier..."
+    },
+    {
+        "intcorrespondance_id": 4,
+        "chvcorrespondance_type": "Court"
+    },
+    {
+        "intcorrespondance_id": 5,
+        "chvcorrespondance_type": "RIT"
+    },
+    {
+        "intcorrespondance_id": 6,
+        "chvcorrespondance_type": "RTS"
+    }
+]
+}

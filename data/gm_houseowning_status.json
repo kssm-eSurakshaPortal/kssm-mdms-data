@@ -1,0 +1,15 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_houseowning_status":[
+    {
+        "inthostatusid": 1,
+        "chvhostatuseng": "Own House",
+        "chvhostatusmal": "സ്വന്തം വീട്"
+    },
+    {
+        "inthostatusid": 2,
+        "chvhostatuseng": "Rented House",
+        "chvhostatusmal": "വാടക വീട്"
+    }
+]
+}

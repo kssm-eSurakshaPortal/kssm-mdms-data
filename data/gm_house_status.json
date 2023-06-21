@@ -1,0 +1,17 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_house_status":[
+    {
+        "house_status_id": 1,
+        "house_status": "ഓട്"
+    },
+    {
+        "house_status_id": 2,
+        "house_status": "ഓല"
+    },
+    {
+        "house_status_id": 3,
+        "house_status": "കോണ്‍ക്രീറ്റ്‌"
+    }
+]
+}

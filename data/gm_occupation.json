@@ -1,0 +1,25 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_occupation":[
+    {
+        "occupation_id": 1,
+        "chv_occupmal": "സര്‍ക്കാര്‍",
+        "chv_occupeng": "Goverment"
+    },
+    {
+        "occupation_id": 2,
+        "chv_occupmal": "അര്‍ദ്ധ സര്‍ക്കാര്‍",
+        "chv_occupeng": "SemiGoverment"
+    },
+    {
+        "occupation_id": 3,
+        "chv_occupmal": "സ്വകാര്യ സ്ഥാപനം",
+        "chv_occupeng": "Private"
+    },
+    {
+        "occupation_id": 4,
+        "chv_occupmal": "പെന്‍ഷന്‍/ഹോണറേറിയം",
+        "chv_occupeng": "Pension/Honararaum(Govt/Public sector)"
+    }
+]
+}
