@@ -1,0 +1,11 @@
+{
+    "tenantId": "kssm",
+    "moduleName": "common-masters",
+    "IdFormat": [
+        {
+            "format": "KSSM-SNP-[cy:yyyy-MM-dd]-[SEQ_EG_FM_APL]",
+            "idname": "kssm.pensniorid"
+        }
+       
+    ]
+}
