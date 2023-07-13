@@ -1,6 +1,6 @@
 {
     "tenantId": "kssm",
-    "moduleName": "common-masters",
+    "moduleName": "data",
     "IdFormat": [
         {
             "format": "KSSM-SNP-[cy:yyyy-MM-dd]-[SEQ_EG_FM_APL]",
